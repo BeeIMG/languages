@@ -38,18 +38,21 @@ $lang['MENU_FOLLOW'] = 'Следуйте за нами';
 $lang['UPLOAD_CAR_LP'] = 'Home';
 $lang['UPLOAD_CAR_1'] = 'No IP\'s will be recorded on Uploading.';
 $lang['UPLOAD_CAR_2'] = 'We moderate your uploads.';
-$lang['UPLOAD_CAR_3'] = 'No Advertising is allowed.';
+$lang['UPLOAD_CAR_3'] = 'Реклама не допускается.';
 
 // Footer
-$lang['FOOTER_CONTACT'] = 'contact';
-$lang['FOOTER_API'] = 'api';
-$lang['FOOTER_BLOG'] = 'blog';
+$lang['FOOTER_CONTACT'] = 'контакт';
+$lang['FOOTER_API'] = 'апи';
+$lang['FOOTER_BLOG'] = 'блог';
 $lang['FOOTER_TOS'] = 'tos';
 $lang['FOOTER_ABOUT_US'] = 'О нас';
 
+// Stats
+$lang['STATS_HEAD'] = 'Stats';
+
 // Image View Page
-$lang['IMG_VP_IP_HEAD'] = 'Image Preview of';
-$lang['IMG_VP_SHARE_HEAD'] = 'Share this image';
+$lang['IMG_VP_IP_HEAD'] = 'Изображение Предварительный просмотр';
+$lang['IMG_VP_SHARE_HEAD'] = 'Ссылку на эту фотографию';
 $lang['IMG_VP_SHARE_DL'] = 'Download';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Image';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';

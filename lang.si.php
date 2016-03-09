@@ -6,14 +6,14 @@ Language: Sinhala
 
 $lang = array();
 
-$lang['BEEIMG'] = 'බීඉමේජ්';
+$lang['BEEIMG'] = 'BeeIMG';
 
 // Titles
 $lang['TITLE_HOME'] = 'නොමිලේ පින්තූර හොස්ට් කිරීම හා බෙදාගැනීමට';
 $lang['TITLE_UPLOAD'] = 'පින්තුර උඩුගත කරන්න';
 $lang['TITLE_RECENT'] = 'අලුත්  පින්තුර';
 $lang['TITLE_STATS'] = 'තොරතුරු';
-$lang['TITLE_TOP'] = 'හොදම  තොරතුරු 9';
+$lang['TITLE_TOP'] = 'හොදම  පින්තුර 9';
 $lang['TITLE_ABOUT'] = 'අපි ගැන';
 $lang['TITLE_CONTACT'] = 'කතා කරන්න';
 $lang['TITLE_TOS'] = 'සේවා කොන්දේසි';
@@ -38,19 +38,22 @@ $lang['MENU_FOLLOW'] = 'අපිව පසුහබන්න';
 $lang['UPLOAD_CAR_LP'] = 'මුල් පිටුව';
 $lang['UPLOAD_CAR_1'] = 'No IP\'s will be recorded on Uploading.';
 $lang['UPLOAD_CAR_2'] = 'We moderate your uploads.';
-$lang['UPLOAD_CAR_3'] = 'No Advertising is allowed.';
+$lang['UPLOAD_CAR_3'] = 'වෙළඳ ප්රචාරණ ඉඩ නැත.';
 
 // Footer
 $lang['FOOTER_CONTACT'] = 'කතා කරන්න';
-$lang['FOOTER_API'] = 'api';
-$lang['FOOTER_BLOG'] = 'blog';
+$lang['FOOTER_API'] = 'ඒපීඅයි';
+$lang['FOOTER_BLOG'] = 'බ්ලොග්';
 $lang['FOOTER_TOS'] = 'tos';
 $lang['FOOTER_ABOUT_US'] = 'අපි ගැන';
 
+// Stats
+$lang['STATS_HEAD'] = 'Stats';
+
 // Image View Page
-$lang['IMG_VP_IP_HEAD'] = 'Image Preview of';
-$lang['IMG_VP_SHARE_HEAD'] = 'Share this image';
-$lang['IMG_VP_SHARE_DL'] = 'Download';
+$lang['IMG_VP_IP_HEAD'] = 'රූපය පෙරදසුන';
+$lang['IMG_VP_SHARE_HEAD'] = 'මෙම රූපය බෙදාගන්න';
+$lang['IMG_VP_SHARE_DL'] = 'බා ගන්න';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Image';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Share Buttons';

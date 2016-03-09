@@ -47,6 +47,9 @@ $lang['FOOTER_BLOG'] = 'blog';
 $lang['FOOTER_TOS'] = 'tos';
 $lang['FOOTER_ABOUT_US'] = 'about us';
 
+// Stats
+$lang['STATS_HEAD'] = 'Stats';
+
 // Image View Page
 $lang['IMG_VP_IP_HEAD'] = 'Image Preview of';
 $lang['IMG_VP_SHARE_HEAD'] = 'Share this image';
