@@ -1,7 +1,7 @@
 ﻿<?php
 
 /*------------------
-Language: Russia
+Language: Russian
 ------------------*/
 
 $lang = array();
@@ -42,7 +42,7 @@ $lang['UPLOAD_CAR_3'] = 'Реклама не допускается.';
 
 // Footer
 $lang['FOOTER_CONTACT'] = 'контакт';
-$lang['FOOTER_API'] = 'апи';
+$lang['FOOTER_API'] = 'API';
 $lang['FOOTER_BLOG'] = 'блог';
 $lang['FOOTER_TOS'] = 'tos';
 $lang['FOOTER_ABOUT_US'] = 'О нас';

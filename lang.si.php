@@ -42,7 +42,7 @@ $lang['UPLOAD_CAR_3'] = 'වෙළඳ ප්රචාරණ ඉඩ නැත.';
 
 // Footer
 $lang['FOOTER_CONTACT'] = 'කතා කරන්න';
-$lang['FOOTER_API'] = 'ඒපීඅයි';
+$lang['FOOTER_API'] = 'API';
 $lang['FOOTER_BLOG'] = 'බ්ලොග්';
 $lang['FOOTER_TOS'] = 'tos';
 $lang['FOOTER_ABOUT_US'] = 'අපි ගැන';
