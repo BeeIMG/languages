@@ -23,11 +23,11 @@ $lang['TITLE_DASHBOARD'] = 'උපකරණ පුවරුව';
 
 // Menu
 $lang['MENU_HOME'] = 'මුල් පිටුව';
-$lang['MENU_HOME_TITLE'] = 'අපේ  මුල් පිටුව';
+$lang['MENU_HOME_TITLE'] = 'අපේ මුල් පිටුව';
 $lang['MENU_UPLOAD'] = 'උඩුගත කරන්න ';
 $lang['MENU_UPLOAD_TITLE'] = 'පින්තුර උඩුගත කරන්න';
-$lang['MENU_RECENT'] = 'අලුත්  පින්තුර';
-$lang['MENU_RECENT_TITLE'] = 'අලුත්තින්  උඩුගත කරන ලද පින්තුර';
+$lang['MENU_RECENT'] = 'අලුත් පින්තුර';
+$lang['MENU_RECENT_TITLE'] = 'අලුත්තින් උඩුගත කරන ලද පින්තුර';
 $lang['MENU_STATS'] = 'තොරතුරු ';
 $lang['MENU_STATS_TITLE'] = 'අපේ තොරතුරු';
 $lang['MENU_TOP'] = 'හොදම  9';
