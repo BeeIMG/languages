@@ -22,8 +22,8 @@ $lang['TITLE_LOGIN'] = 'Iniciar sesión';
 $lang['TITLE_DASHBOARD'] = 'Tablero';
 
 // Menu
-$lang['MENU_HOME'] = 'Casa';
-$lang['MENU_HOME_TITLE'] = 'Nuestra Casa';
+$lang['MENU_HOME'] = 'Inicio';
+$lang['MENU_HOME_TITLE'] = 'Inicio';
 $lang['MENU_UPLOAD'] = 'Subir';
 $lang['MENU_UPLOAD_TITLE'] = 'Cargar imágenes';
 $lang['MENU_RECENT'] = 'Imágenes recientes';
@@ -35,10 +35,10 @@ $lang['MENU_TOP_TITLE'] = 'Ver Top 9 Imágenes';
 $lang['MENU_FOLLOW'] = 'Seguir';
 
 // Upload Carousel
-$lang['UPLOAD_CAR_LP'] = 'Home';
-$lang['UPLOAD_CAR_1'] = 'No IP\'s will be recorded on Uploading.';
-$lang['UPLOAD_CAR_2'] = 'We moderate your uploads.';
-$lang['UPLOAD_CAR_3'] = 'Advertising is not allowed.';
+$lang['UPLOAD_CAR_LP'] = 'Inicio';
+$lang['UPLOAD_CAR_1'] = 'Ningúna IP será registrada en la carga.';
+$lang['UPLOAD_CAR_2'] = 'Moderamos sus cargas.';
+$lang['UPLOAD_CAR_3'] = 'La publicidad no esta permitida.';
 
 // Footer
 $lang['FOOTER_CONTACT'] = 'contacto';
@@ -53,8 +53,8 @@ $lang['STATS_HEAD'] = 'Estadísticas';
 // Image View Page
 $lang['IMG_VP_IP_HEAD'] = 'Vista previa del';
 $lang['IMG_VP_SHARE_HEAD'] = 'Comparte esta imagen';
-$lang['IMG_VP_SHARE_DL'] = 'Download';
-$lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Image';
+$lang['IMG_VP_SHARE_DL'] = 'Descargar';
+$lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Imagen';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
-$lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Share Buttons';
+$lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Botones de compartir';
 ?>
