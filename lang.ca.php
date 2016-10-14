@@ -48,4 +48,4 @@ $lang['IMG_VP_SHARE_DL'] = 'Descarrega';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Imatge';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Empaquetar en Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Compartir';
-?>
+

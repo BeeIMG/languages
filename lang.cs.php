@@ -57,4 +57,3 @@ $lang['IMG_VP_SHARE_DL'] = 'Stáhnout';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Obrázek';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Tlačítka pro sdílení';
-?>

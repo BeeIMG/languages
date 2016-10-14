@@ -57,4 +57,3 @@ $lang['IMG_VP_SHARE_DL'] = 'Scarica';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Immagine';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'I pulsanti di condivisione';
-?>

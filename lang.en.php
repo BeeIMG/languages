@@ -57,4 +57,3 @@ $lang['IMG_VP_SHARE_DL'] = 'Download';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Image';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Share Buttons';
-?>

@@ -57,4 +57,4 @@ $lang['IMG_VP_SHARE_DL'] = 'डाउनलोड';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'छवि';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'ज़िप';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'शेयर बटन';
-?>
+

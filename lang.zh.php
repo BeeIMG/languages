@@ -57,5 +57,5 @@ $lang['IMG_VP_SHARE_DL'] = '下載';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = '圖片';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = '分享';
-?>
+
 

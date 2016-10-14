@@ -57,4 +57,4 @@ $lang['IMG_VP_SHARE_DL'] = 'Last ned';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Bilde';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Knapper for deling';
-?>
+
