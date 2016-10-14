@@ -21,4 +21,4 @@ class TestFiles extends PHPunit_Framework_Testcase {
     }
 }
 
-?>
+

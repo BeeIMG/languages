@@ -48,4 +48,4 @@ $lang['IMG_VP_SHARE_DL'] = 'İndir';
 $lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Resim';
 $lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
 $lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Paylaşım Butonları';
-?>
+
