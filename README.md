@@ -18,10 +18,15 @@ New translations are welcome, see [#1](https://github.com/BeeIMG/languages/issue
  * Portuguese *
  * Polish
  * Dutch *
- * Italian
+ * Italian *
  * Indonesian
  * French *
  * Croatian
  * Slovak
  * German *
- * Hindi
+ * Hindi *
+ * Brazilian Portuguese
+ * Catalan
+ * Czech
+ * Norwegian
+ * Tagalog

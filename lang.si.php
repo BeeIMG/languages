@@ -36,24 +36,24 @@ $lang['MENU_FOLLOW'] = 'අපිව පසුහබන්න';
 
 // Upload Carousel
 $lang['UPLOAD_CAR_LP'] = 'මුල් පිටුව';
-$lang['UPLOAD_CAR_1'] = 'No IP\'s will be recorded on Uploading.';
-$lang['UPLOAD_CAR_2'] = 'We moderate your uploads.';
+$lang['UPLOAD_CAR_1'] = 'අපි ඔබගේ අයිපී ලිපිනයන් සටහන් කරගන්නේ නැත.';
+$lang['UPLOAD_CAR_2'] = 'අපි ඔබගේ උඩුගත කිරීම් පරික්ෂා කරයි.';
 $lang['UPLOAD_CAR_3'] = 'වෙළඳ ප්රචාරණ ඉඩ නැත.';
 
 // Footer
 $lang['FOOTER_CONTACT'] = 'කතා කරන්න';
 $lang['FOOTER_API'] = 'API';
 $lang['FOOTER_BLOG'] = 'බ්ලොග්';
-$lang['FOOTER_TOS'] = 'tos';
+$lang['FOOTER_TOS'] = 'සේවා කොන්දේසි';
 $lang['FOOTER_ABOUT_US'] = 'අපි ගැන';
 
 // Stats
-$lang['STATS_HEAD'] = 'Stats';
+$lang['STATS_HEAD'] = 'තොරතුරු';
 
 // Image View Page
 $lang['IMG_VP_IP_HEAD'] = 'රූපය පෙරදසුන';
 $lang['IMG_VP_SHARE_HEAD'] = 'මෙම රූපය බෙදාගන්න';
 $lang['IMG_VP_SHARE_DL'] = 'බා ගන්න';
-$lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'Image';
-$lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'Zip';
-$lang['IMG_VP_SHARE_BTNS_HEAD'] = 'Share Buttons';
+$lang['IMG_VP_SHARE_DL_BTN_IMG'] = 'පින්තුරය';
+$lang['IMG_VP_SHARE_DL_BTN_ZIP'] = 'සිප් ගොනුව';
+$lang['IMG_VP_SHARE_BTNS_HEAD'] = 'බෙදාගැනිමේ බොත්තම්';
