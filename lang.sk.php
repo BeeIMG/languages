@@ -5,6 +5,7 @@ Language: Slovak
 ------------------*/
 
 $lang = array();
+
 $lang['BEEIMG'] = 'BeeIMG';
 
 // Titles
