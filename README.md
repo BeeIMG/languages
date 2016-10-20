@@ -31,3 +31,4 @@ New translations are welcome, see [#1](https://github.com/BeeIMG/languages/issue
  * Norwegian
  * Tagalog
  * Finnish
+ * Malay
