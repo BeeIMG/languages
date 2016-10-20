@@ -13,7 +13,7 @@ $lang['TITLE_HOME'] = 'Free Image Hosting and Sharing';
 $lang['TITLE_UPLOAD'] = 'Nahrať obrázky';
 $lang['TITLE_RECENT'] = 'Nedávne obrázky';
 $lang['TITLE_STATS'] = 'Štatistiky';
-$lang['TITLE_TOP'] = 'Top 9 obrázkov';
+$lang['TITLE_TOP'] = 'Najlepších 9 obrázkov';
 $lang['TITLE_ABOUT'] = 'O nás';
 $lang['TITLE_CONTACT'] = 'Kontakt';
 $lang['TITLE_TOS'] = 'Podmienky služby';
@@ -29,16 +29,16 @@ $lang['MENU_UPLOAD_TITLE'] = 'Nahrať obrázky';
 $lang['MENU_RECENT'] = 'Nedávne obrázky';
 $lang['MENU_RECENT_TITLE'] = 'Nedávno nahrané obrázky';
 $lang['MENU_STATS'] = 'Štatistiky';
-$lang['MENU_STATS_TITLE'] = 'Naše statistiky';
+$lang['MENU_STATS_TITLE'] = 'Naše štatistiky';
 $lang['MENU_TOP'] = 'Top 9';
-$lang['MENU_TOP_TITLE'] = 'Pozri si top 9 obrázkov';
+$lang['MENU_TOP_TITLE'] = 'Našich 9 najlepších obrázkov';
 $lang['MENU_FOLLOW'] = 'Sledovať';
 
 // Upload Carousel
 $lang['UPLOAD_CAR_LP'] = 'Domov';
-$lang['UPLOAD_CAR_1'] = 'IP adresy nebudú zaznamenané pri nahrávaní.';
-$lang['UPLOAD_CAR_2'] = 'Kontrolujeme vaše nahrané súbory.';
-$lang['UPLOAD_CAR_3'] = 'Šírenie reklamy nie je dovolené.';
+$lang['UPLOAD_CAR_1'] = 'Pri nahrávaní IP adresy nebudú zaznamenavané.';
+$lang['UPLOAD_CAR_2'] = 'Nahrané obrázky prechádzajú našou kontrolou.';
+$lang['UPLOAD_CAR_3'] = 'Nieje povolené používat portál na šírenie reklamy.';
 
 // Footer
 $lang['FOOTER_CONTACT'] = 'kontakt';
