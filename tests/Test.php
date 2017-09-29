@@ -1,12 +1,11 @@
 <?php
 
 // backward compatibility
-if (!class_exists('\PHPUnit\Framework\TestCase') &&
-    class_exists('\PHPUnit_Framework_TestCase')) {
+if (!class_exists('\PHPUnit\Framework\TestCase')) {
     class_alias('\PHPUnit_Framework_TestCase', '\PHPUnit\Framework\TestCase');
 }
 
-class TestFiles extends PHPunit_Framework_Testcase {
+class TestFiles extends \PHPUnit\Framework\TestCase {
 
     /*
      * Testing the translation files
@@ -26,5 +25,3 @@ class TestFiles extends PHPunit_Framework_Testcase {
         $this->assertEquals("BeeIMG", $result);
     }
 }
-
-
