@@ -32,3 +32,4 @@ New translations are welcome, see [#1](https://github.com/BeeIMG/languages/issue
  * Tagalog
  * Finnish
  * Malay
+ * Korean
